@@ -84,3 +84,686 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
 
+1641470768563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUhIumW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641470770139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUhIumW/search.json.mozlz4", (void 0)))
+1641470772392	Marionette	INFO	Listening on port 34465
+1641470772508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1641475706648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileehZD1e"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641475707669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileehZD1e/search.json.mozlz4", (void 0)))
+1641475709778	Marionette	INFO	Listening on port 41671
+1641475709952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641475715164	Marionette	INFO	Stopped listening on port 34465
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641479302395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiXLTKZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479303490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiXLTKZ/search.json.mozlz4", (void 0)))
+1641479305824	Marionette	INFO	Listening on port 40955
+1641479305926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641479308812	Marionette	INFO	Stopped listening on port 41671
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 47490, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641479455508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevzMMwD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479456544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevzMMwD/search.json.mozlz4", (void 0)))
+1641479458497	Marionette	INFO	Listening on port 34617
+1641479458574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641479466469	Marionette	INFO	Stopped listening on port 40955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641479541220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6kIE0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479542214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR6kIE0/search.json.mozlz4", (void 0)))
+1641479544104	Marionette	INFO	Listening on port 37663
+1641479544163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641479701213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUwYtzL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479702270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUwYtzL/search.json.mozlz4", (void 0)))
+1641479704335	Marionette	INFO	Listening on port 36905
+1641479704672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641479705400	Marionette	INFO	Stopped listening on port 34617
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641479739577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0zOcYi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479740733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0zOcYi/search.json.mozlz4", (void 0)))
+1641479742644	Marionette	INFO	Listening on port 42545
+1641479742794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641479794513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiVNKJ4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479795955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiVNKJ4/search.json.mozlz4", (void 0)))
+1641479798098	Marionette	INFO	Listening on port 38831
+1641479798178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641479842377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGb1pV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479843381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiGb1pV/search.json.mozlz4", (void 0)))
+1641479845298	Marionette	INFO	Listening on port 40991
+1641479845431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 152ms)
+1641479970137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW2dHtO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641479971174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW2dHtO/search.json.mozlz4", (void 0)))
+1641479973421	Marionette	INFO	Listening on port 34143
+1641479973492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480002212	Marionette	INFO	Stopped listening on port 34143
+[Parent 53114, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480007418	Marionette	INFO	Stopped listening on port 40991
+[Parent 52791, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641480012385	Marionette	INFO	Stopped listening on port 38831
+1641480012513	Marionette	INFO	Stopped listening on port 42545
+1641480012519	Marionette	INFO	Stopped listening on port 37663
+1641480012581	Marionette	INFO	Stopped listening on port 36905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641480039007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb6g6Xw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480039997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb6g6Xw/search.json.mozlz4", (void 0)))
+1641480042071	Marionette	INFO	Listening on port 42355
+1641480042161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480078169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekhU2uE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480079532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekhU2uE/search.json.mozlz4", (void 0)))
+1641480081698	Marionette	INFO	Listening on port 35097
+1641480081817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480097975	Marionette	INFO	Stopped listening on port 35097
+[Parent 53708, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480100758	Marionette	INFO	Stopped listening on port 42355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 53439, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1641480106574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Fe0z0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480107582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Fe0z0/search.json.mozlz4", (void 0)))
+1641480109489	Marionette	INFO	Listening on port 43289
+1641480109629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480128223	Marionette	INFO	Stopped listening on port 43289
+[Parent 53968, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480153551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5d1L5o"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480154541	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5d1L5o/search.json.mozlz4", (void 0)))
+1641480156521	Marionette	INFO	Listening on port 43537
+1641480156605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480275251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2gEMiM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480276248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2gEMiM/search.json.mozlz4", (void 0)))
+1641480278136	Marionette	INFO	Listening on port 41013
+1641480278204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480290508	Marionette	INFO	Stopped listening on port 41013
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 54469, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480292516	Marionette	INFO	Stopped listening on port 43537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641480295860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK533XE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480296857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK533XE/search.json.mozlz4", (void 0)))
+1641480299038	Marionette	INFO	Listening on port 39915
+1641480299103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480326383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNaM1Qh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480327414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNaM1Qh/search.json.mozlz4", (void 0)))
+1641480329454	Marionette	INFO	Listening on port 37633
+1641480329534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480332757	Marionette	INFO	Stopped listening on port 39915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480379885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXD63y"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480381023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerXD63y/search.json.mozlz4", (void 0)))
+1641480383008	Marionette	INFO	Listening on port 34191
+1641480383121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480401250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEvm2y1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480402248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEvm2y1/search.json.mozlz4", (void 0)))
+1641480404957	Marionette	INFO	Listening on port 46435
+1641480405002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480407436	Marionette	INFO	Stopped listening on port 37633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480408868	Marionette	INFO	Stopped listening on port 34191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480661549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecIUwON"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480662671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecIUwON/search.json.mozlz4", (void 0)))
+1641480664680	Marionette	INFO	Listening on port 41965
+1641480664799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641480879209	Marionette	INFO	Stopped listening on port 46435
+1641480879253	Marionette	INFO	Stopped listening on port 41965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 55880, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641480880811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaSQtVC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641480881949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaSQtVC/search.json.mozlz4", (void 0)))
+1641480884143	Marionette	INFO	Listening on port 33603
+1641480884251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641481338793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejxjqjy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1641481339797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejxjqjy/search.json.mozlz4", (void 0)))
+1641481341758	Marionette	INFO	Listening on port 43363
+1641481341865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1641510647017	Marionette	INFO	Stopped listening on port 33603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 56308, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-BVyW0E/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.warn: ({})
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.warn: ({})
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483798/domwalker27, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "cssProperties" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483798/cssPropertiesActor9, type getCSSDatabase failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ninitialize@resource://devtools/client/fronts/css-properties.js:58:28\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:557:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:327:15\n_getCssProperties@resource://devtools/client/inspector/inspector.js:541:45\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:273:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "accessibility" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483798/accessibilityActor14, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ninitialize@resource://devtools/client/fronts/accessibility.js:533:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:557:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:327:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:545:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:274:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483798/cssPropertiesActor9, type getCSSDatabase failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+initialize@resource://devtools/client/fronts/css-properties.js:58:28
+manage@resource://devtools/shared/protocol/Front.js:146:19
+getFront@resource://devtools/shared/protocol/types.js:557:18
+getFront@resource://devtools/client/fronts/targets/target-mixin.js:327:15
+_getCssProperties@resource://devtools/client/inspector/inspector.js:541:45
+_onTargetAvailable@resource://devtools/client/inspector/inspector.js:273:12
+
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: https://robot.allianz.com.tw/api/aiEvent?channel=Product_2019, line 1: SyntaxError: redeclaration of const deepLinkActionDict
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 73: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1641565950357	Marionette	INFO	Stopped listening on port 43363
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
